@@ -1,6 +1,8 @@
-# Deduplication Calculator: `dedupcalc`
+# dedupcalc
 
-A simple script for calculating deduplication statistics across a set of files by identifying duplicate blocks of data.
+![Project Logo](logo.png)
+
+Deduplication calculator for calculating deduplication statistics across a set of files by identifying duplicate blocks of data.
 
 **Note:** This script does not modify or deduplicate the provided files. It only computes potential deduplication statistics.
 
